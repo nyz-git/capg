@@ -17,6 +17,13 @@ public class ArrEx {
 		cust2[2] = 15;
 		cust2[3] = 17;
 
+long cust2[] = new long[4];
+		cust2[0] = 12;
+		cust2[1] = 13;
+		cust2[2] = 15;
+		cust2[3] = 17;
+
+
 
 		long kotak[][] = new long[2][];
 		kotak[0] = cust1;
